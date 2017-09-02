@@ -1,0 +1,19 @@
+title: Allmaziful, abcedminded Dave
+email: alovedalongthe@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Information about me and some of the projects I maintain.
+  Elixir and Python, amongst others.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: alovedalongthe
+github_username: riverrun
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
