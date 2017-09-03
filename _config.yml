@@ -1,10 +1,9 @@
-title: Allmaziful, abcedminded developer, student, teacher
+title: Allmaziful and abcedminded
 email: alovedalongthe@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Information about me and some of the projects I maintain.
   Elixir and Python, amongst others.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://riverrun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://riverrun.github.io"
 author: David Whitlock
 twitter_username: alovedalongthe
 github_username: riverrun
