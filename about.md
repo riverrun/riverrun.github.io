@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-My name is David Whitlock, and I am passionate about open-source software.
-I have several projects, most of them in Elixir and Python.
+My name is David Whitlock. I am a software developer and teacher.
+I maintain several open-source projects, mostly in Elixir and Python.
